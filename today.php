@@ -5,7 +5,7 @@
  */
 require 'include/db.php';
 
-error_reporting(E_STRICT);
+error_reporting( E_STRICT );
 ini_set('display_errors', 1);
 header("Content-Type: text/html; charset=ISO-8859-1");
 
@@ -60,7 +60,7 @@ if( isset( $_POST['data'] )){
 <body>
 
 <div class="container-fluid">
-    <div class="row header align-items-start" data-key="<?php echo $Geoip->key;?>">
+    <div class="row header align-items-start" data-key="<?php echo $Geoip->key;?>" data-url="<?php echo $Geoip->url; ?>">
         <div class="col-2" id="toggle"></div>
         <div class="col-1" id="active"></div>
         <div class="col-1" id="disconnected"></div>
@@ -112,11 +112,9 @@ try{
 <script>
 $(document).ready(function(){
 
-    let key = $('.header').attr('data-key');
-    // let GeoIpUrl = 'https://geolocation-db.com/json/' + key;
-    let GeoIpUrl = 'http://api.ipstack.com/'
+    let key         = $('.header').attr('data-key');
+    let GeoIpUrl    = $('.header').attr('data-url');
 
-    // createCookie("toggle","all",1 ); // to create new cookie
     console.log('%cH.A.L. is active, doing nothing at this point except setting the active listener color rows and moving connected rows to the top of the table', 'color:lightgreen');
     
     let toggleCookie = readCookie("toggle"); // to retrive data from cookie

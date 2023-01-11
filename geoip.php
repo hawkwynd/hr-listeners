@@ -2,15 +2,8 @@
 
 require 'include/config.php';
 
+$ip = "91.59.179.16";
 
-// $ipstack_url = "http://api.ipstack.com/";
-// $key = '7ef7dd1a96401e1ceecb973b6472931c';
+$data = file_get_contents( API_URL.$ip."?access_key=". API_KEY_STACK );
 
-echo $ipstack_url.$ip."?access_key=".$ipstack_key ."\n";
-
-$data = file_get_contents( $ipstack_url.$ip."?access_key=".$ipstack_key );
-
-print_r( $data );
-$json = json_decode( $data, true );
-
-echo "<pre>", print_r( $json ), "</pre>";
+echo $data; 

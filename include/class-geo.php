@@ -8,13 +8,14 @@ class Geoip {
     public $key;
 
     function __construct(){
-        $this->key = "7ef7dd1a96401e1ceecb973b6472931c";
-        $this->url = "http://api.ipstack.com/";
+        $this->key = API_KEY_STACK;
+        $this->url = API_URL;
     }
 
+
     public function lookup( $ip ){
-        $url    = "http://api.ipstack.com/";
-        $key    = '7ef7dd1a96401e1ceecb973b6472931c';
+        $url    = API_URL;
+        $key    = API_KEY_STACK;
         $json   = file_get_contents( $url.$ip."?access_key=".$key );
         $data   = json_decode( $json, true );
 
