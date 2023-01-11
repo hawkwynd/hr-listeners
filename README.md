@@ -1,6 +1,7 @@
 # hr-listeners
 
 ## Requirements ## 
+```
 include/config.php 
 
 define('SC_SERV_STATISTICS', 'http://your_url:port/statistics?json=1');
@@ -16,3 +17,4 @@ define('MYSQL_USER', 'mysql_username');
 define('MYSQL_PASSWD', 'mysql-password');
 
 define('MYSQL_DB', 'your-database-name');
+```
