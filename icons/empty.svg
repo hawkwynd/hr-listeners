@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="60"
+   height="60"
+   viewBox="0 0 15.875 15.875"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (1:1.1+202109281949+c3084ef5ed)"
+   sodipodi:docname="empty.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="60px"
+     units="px"
+     inkscape:snap-text-baseline="true"
+     inkscape:zoom="2.5620932"
+     inkscape:cx="108.11473"
+     inkscape:cy="62.644092"
+     inkscape:window-width="1680"
+     inkscape:window-height="984"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3"
+     inkscape:snap-to-guides="true" />
+  <defs
+     id="defs2">
+    <rect
+       x="2.9057467"
+       y="8.9209572"
+       width="51.672004"
+       height="43.750611"
+       id="rect6348" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="circle"
+     style="display:inline">
+    <ellipse
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#509fa8;fill-opacity:1;fill-rule:evenodd;stroke-width:0.40848;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="path39170"
+       cx="8.0614462"
+       cy="7.9090123"
+       rx="8.1359291"
+       ry="7.5171666" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Empty">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:0;font-family:sans-serif;baseline-shift:baseline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.213788"
+       x="1.9804682"
+       y="7.4774694"
+       id="text63529"
+       transform="scale(0.78800772,1.2690231)"><tspan
+         sodipodi:role="line"
+         id="tspan63527"
+         style="font-size:4.93889px;baseline-shift:baseline;stroke-width:0.213788"
+         x="1.9804682"
+         y="7.4774694">Empty</tspan></text>
+  </g>
+</svg>

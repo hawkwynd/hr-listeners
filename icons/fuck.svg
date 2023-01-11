@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="60"
+   height="60"
+   viewBox="0 0 15.875 15.875"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (1:1.1+202109281949+c3084ef5ed)"
+   sodipodi:docname="fuck.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="60px"
+     units="px"
+     inkscape:snap-text-baseline="true"
+     inkscape:zoom="2.5620932"
+     inkscape:cx="164.90423"
+     inkscape:cy="62.644092"
+     inkscape:window-width="1680"
+     inkscape:window-height="984"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-to-guides="true" />
+  <defs
+     id="defs2">
+    <rect
+       x="2.9057467"
+       y="8.9209572"
+       width="51.672004"
+       height="43.750611"
+       id="rect6348" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="circle"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <ellipse
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ff8080;fill-opacity:1;fill-rule:evenodd;stroke-width:0.40848;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="path39170"
+       cx="8.0614462"
+       cy="7.9090123"
+       rx="8.1359291"
+       ry="7.5171666" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text6346"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:32px;line-height:1.25;font-family:'URW Bookman';-inkscape-font-specification:'URW Bookman Semi-Bold';letter-spacing:0.13px;word-spacing:0px;white-space:pre;shape-inside:url(#rect6348);fill:#000000;fill-opacity:1;stroke:none" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.1431px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.153577"
+       x="-7.3956332"
+       y="13.249972"
+       id="text31447"
+       transform="matrix(0.74472654,-0.64111644,0.58026704,0.84323739,0,0)"
+       inkscape:transform-center-x="0.20296435"
+       inkscape:transform-center-y="0.28808927"><tspan
+         sodipodi:role="line"
+         id="tspan31445"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000080;stroke-width:0.153577"
+         x="-7.3956332"
+         y="13.249972">FUCK</tspan></text>
+  </g>
+</svg>
