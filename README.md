@@ -3,7 +3,13 @@
 Database files are found in the mysql folder. 
 Import these into your database for use with the HR-Listeners.
 
+## Mysql Views
+`activeListeners.sql`
+This is a view to return the active listeners from the listeners table.
 
+`analytics.sql`
+This table holds the data sent by the node.js script which monitors the shoutcast connections
+and updates this table.
 
 
 
