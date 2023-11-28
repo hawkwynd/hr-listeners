@@ -1,5 +1,8 @@
 # hr-listeners
 
+Database files are found in the mysql folder. Import these into your database for use with the HR-Listeners 
+
+
 ## Requirements ## 
 ```
 include/config.php 
