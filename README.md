@@ -1,5 +1,9 @@
 # hr-listeners
 
+## SC-Analytics is included in this repo
+See the readme in SC-Analytics for setup info to use the node.js 
+script which feeds the database.
+
 Database files are found in the mysql folder. 
 Import these into your database for use with the HR-Listeners.
 
